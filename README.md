@@ -1,6 +1,3 @@
-# single-view-metrology
-MATLAB-based tool for computing accurate 3D affine measurements from a single perspective image, utilizing vanishing points, cross-ratios, and projection matrices to measure distances between and within parallel planes, and determine camera positions.
-
 ## Overview
 
 This MATLAB project, developed by Curtis Helsel in November 2022, allows for the computation of 3D affine measurements from a single perspective image. The key feature is the utilization of vanishing lines in a scene's reference plane to facilitate measurements, enabling users to determine distances between parallel planes and identify camera positions.
