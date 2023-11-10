@@ -35,7 +35,8 @@ The projection camera matrix is used to determine the camera center position, co
 
 Sample measurements and visual representations are provided, demonstrating the accuracy of the computations.
 
-![Room Measurements](path/to/room_measurements.png)
+![Room Measurements](images/room_measurement.png)
+![Sketch Measurements](images/sketch_measurement.png)
 
 ## Future Enhancements
 
