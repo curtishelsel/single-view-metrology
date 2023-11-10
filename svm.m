@@ -1,6 +1,3 @@
-% Curtis Helsel
-% CAP6419 - Fall 2020
-% 
 % Program is an implementation of Single View Metrology by Criminisi et al
 
 clear all;
